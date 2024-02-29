@@ -1,0 +1,2 @@
+code,images: "cat.png,instruction.png" and font: "font.ttf" are my oryginal work and u can use it as u want;
+different story is with the other stuff; read "license" files and etc. to know what is the deal about with specyfic things;

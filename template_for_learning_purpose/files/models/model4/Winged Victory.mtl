@@ -1,0 +1,4 @@
+newmtl Winged_Victory_Stamdard
+map_Kd grayish-white-marble-textured-background.jpg
+map_Bump WV_NORMALBUMP.jpg
+map_Ks WV_refl_mix.jpg
