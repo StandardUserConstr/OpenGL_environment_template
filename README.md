@@ -17,7 +17,7 @@
 <br/> <br/> 
 <div  align="left">
 <H1></H1>
-<table><tr><td>Basic knowledge to make such a environment has been taken from computer graphics enthusiast and OpenGL maniac Joey de Vries</td></tr></table>
+<table><tr><td>Basic knowledge to make such an environment has been taken from computer graphics enthusiast and OpenGL maniac Joey de Vries</td></tr></table>
 </div>
 
 [Link to book](https://www.amazon.com/dp/9090332561/) 
